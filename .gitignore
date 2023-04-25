@@ -79,7 +79,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-
 ### Node template
 # Logs
 logs
@@ -134,7 +133,6 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-
 ### Linux template
 *~
 
@@ -150,7 +148,6 @@ typings/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
-
 ### VisualStudioCode template
 .vscode/*
 !.vscode/settings.json
@@ -161,7 +158,6 @@ typings/
 
 # Local History for Visual Studio Code
 .history/
-
 
 # Provided default Pycharm Run/Debug Configurations should be tracked by git
 # In case of local modifications made by Pycharm, use update-index command
@@ -218,8 +214,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-
-
 ### Windows template
 # Windows thumbnail cache files
 Thumbs.db
@@ -243,7 +237,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
 
 ### macOS template
 # General
@@ -272,7 +265,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
 
 ### SublimeText template
 # Cache files for Sublime Text
@@ -306,7 +298,6 @@ bh_unicode_properties.cache
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
-
 ### Vim template
 # Swap
 [._]*.s[a-v][a-z]
@@ -333,7 +324,6 @@ chat_all_the_docs/media/
 .ipython/
 .envs/.local
 .envs/.production
-!.envs/.local/
 delphic/media/*
 
 ### Models for Question Answering
